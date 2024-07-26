@@ -1,0 +1,3 @@
+PyJWT==2.8.0
+sql_metadata==2.12.0
+sqlparse==0.5.1
